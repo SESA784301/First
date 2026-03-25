@@ -1,3 +1,3 @@
 # First
 First repository
-Read
+Read it
